@@ -1,3 +1,3 @@
 # FoodWebsite
 
-HTML, CSS, JavaScript
+A responsive Food Websiteusing HTML, CSS, JavaScript
